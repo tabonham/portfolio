@@ -14,7 +14,6 @@
   background-color: #45088a;
   color: #ffffff;
   text-align: center;
-
 }
 
 .light-background {
@@ -26,6 +25,7 @@
 .wrapper {
   width: 500px;
   margin: auto;
+  height: auto;
 }
 
 img {
