@@ -1,7 +1,13 @@
 .text-centered {
   text-align: center;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  text-size: 600px;
+  font-size: 50px;
+}
+
+.smaller-text {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
 }
 
 .dark-background {
@@ -31,14 +37,14 @@ img {
 
 .contact {
   text-align: center;
-  text-size: 200px;
+  font-size: 20px;
 }
 
 hr {
   border-top: 1px dashed #2e014d;
 }
 /* basic list*/
-ul {
+ol {
   list-style-type: none;
   margin: 0;
   padding: 0;
